@@ -1,7 +1,4 @@
-export function helloWorld() {
-
-
-var obj = [
+const obj = [
   {
     name: "Afghanistan",
     dial_code: "+93",
@@ -1455,5 +1452,5 @@ var obj = [
     code: "ZW"
   },
 ];
-      return obj;
-}
+
+export default obj;
