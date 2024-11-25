@@ -1,4 +1,7 @@
-[
+export function helloWorld() {
+
+
+var obj = [
   {
     name: "Afghanistan",
     dial_code: "+93",
@@ -1450,5 +1453,7 @@
     dial_code: "+263",
     emoji: "🇿🇼",
     code: "ZW"
-  }
-]
+  },
+];
+      return obj;
+}
