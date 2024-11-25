@@ -1,4 +1,4 @@
-const obj = {
+const obj = [
   {
     name: "Afghanistan",
     dial_code: "+93",
@@ -1451,6 +1451,4 @@ const obj = {
     emoji: "🇿🇼",
     code: "ZW"
   }
-};
-
-export default obj;
+];
